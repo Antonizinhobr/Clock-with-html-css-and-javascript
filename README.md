@@ -28,16 +28,4 @@
 
 # O que é esse repositório?
 
-1. Meu primeiro portfólio feito em Html, Css, e JavaScript.
-2. Simulado servidor local na máquina local através do Xampp, você pode baixá-lo [clicando aqui](https://www.apachefriends.org/pt_br/index.html)
-
-#  Portfólio responsivo?
-
-1. Sim, portfólio responsivo. Atualmente, no mundo atual em que vivemos, todas as pessoas usam mais dispositivos celulares para fazerem qualquer atividade ou tarefa.
-Um site que não se adapta as demais resoluções desses aparelhos, as pessoas não terão nem vontade de sequer clicar pra abrir a sua página!
-
-# Como usar o Xampp?
-
-1. Para emular um site pelo Xampp, é preciso que os arquivos estejam dentro da pasta "htdocs", dentro da raiz do Xampp, segue o exemplo:
-
-    <img src="/Imagens/readme/Htdocs Xampp.png" />
+1. Relógio digital feito em Html, Css, e principalmente, onde toda mágica acontece, JavaScript.
